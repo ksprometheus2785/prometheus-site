@@ -1,0 +1,12 @@
+<svg width="720" height="720" viewBox="0 0 720 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="720" rx="84" fill="#111A4B"/>
+  <circle cx="360" cy="360" r="208" fill="#B24A2C" opacity="0.92"/>
+  <path d="M360 588V460" stroke="#B24A2C" stroke-width="34" stroke-linecap="round"/>
+  <path d="M342 470C332 454 331 438 343 422C357 402 350 388 336 374C318 356 314 336 328 318C344 294 378 292 396 314C414 336 404 360 392 372C379 384 378 398 392 414C410 438 406 464 392 486C382 504 366 516 360 520C354 516 352 496 342 470Z" fill="#E9A66A"/>
+  <path d="M360 496C348 482 346 470 354 456C364 438 362 426 352 416C342 406 340 394 346 382C356 360 382 360 392 378C402 396 394 414 386 422C377 430 377 440 386 452C398 468 394 490 382 506C374 518 366 526 360 530C354 526 368 508 360 496Z" fill="#FFBF5A"/>
+  <path d="M326 456H394" stroke="#111A4B" stroke-width="18" stroke-linecap="round"/>
+  <path d="M336 486H384" stroke="#111A4B" stroke-width="18" stroke-linecap="round"/>
+  <path d="M344 516H376" stroke="#111A4B" stroke-width="18" stroke-linecap="round"/>
+  <text x="360" y="142" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="108" font-weight="900" fill="#F2B486" letter-spacing="6">2785</text>
+  <text x="360" y="668" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="84" font-weight="900" fill="#F2B486" letter-spacing="2">prometheus</text>
+</svg>
