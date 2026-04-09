@@ -11,7 +11,7 @@ export function HomeHero() {
     <section className="relative -mt-20 min-h-[100dvh] overflow-hidden pt-20">
       <video
         className="absolute inset-0 h-full w-full object-cover"
-        src="/media/brand/P1012308.MOV"
+        src="/media/brand/Timeline%202.mov"
         autoPlay
         loop
         muted
