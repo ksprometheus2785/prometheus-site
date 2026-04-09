@@ -27,6 +27,9 @@ const mono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "FRC 2785 Prometheus",
   description: "Kent School FRC Team 2785 — Prometheus.",
+  icons: {
+    icon: "/media/brand/logo.svg"
+  }
 };
 
 export default function RootLayout({
