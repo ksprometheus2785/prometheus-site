@@ -41,9 +41,9 @@ export default function RootLayout({
     <html
       lang="en"
       data-scroll-behavior="smooth"
-      className={`${display.variable} ${sans.variable} ${mono.variable} h-full antialiased`}
+      className={`${display.variable} ${sans.variable} ${mono.variable} h-full overflow-x-hidden antialiased`}
     >
-      <body className="min-h-full bg-[#002147] font-sans">
+      <body className="min-h-full overflow-x-hidden bg-[#002147] font-sans">
         <div className="fixed inset-0 -z-50 bg-[#002147]" />
         <div className="fixed inset-0 -z-40 opacity-[0.22] noise" />
         <div className="fixed inset-0 -z-30 opacity-[0.16] gridlines" />
