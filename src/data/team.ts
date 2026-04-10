@@ -9,10 +9,8 @@ export const team = {
     "A student-built, mentor-guided robotics program focused on engineering excellence, disciplined execution, and high-impact teamwork.",
   contact: {
     email: "ksprometheus2785@gmail.com",
-    instagram: "https://instagram.com/",
-    youtube: "https://youtube.com/",
-    tiktok: "https://tiktok.com/",
-    github: "https://github.com/"
+    instagram: "https://www.instagram.com/ks2785prometheus/?hl=en",
+    github: "https://github.com/ksprometheus2785"
   }
 } as const;
 
