@@ -134,6 +134,19 @@ export function HomeSections() {
               <div className="max-w-lg text-base text-white/75 md:text-lg">
                 a student-led, mentor-guided engineering team based in Kent.
               </div>
+              <div className="mt-6 w-full max-w-3xl overflow-hidden rounded-2xl border border-white/10 bg-black/25">
+                <div className="aspect-video w-full">
+                  <iframe
+                    className="h-full w-full"
+                    src="https://www.youtube.com/embed/xzseZGDW_Iw?rel=0"
+                    title="Prometheus | About Us"
+                    loading="lazy"
+                    referrerPolicy="strict-origin-when-cross-origin"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowFullScreen
+                  />
+                </div>
+              </div>
             </div>
           </Reveal>
         </Container>
